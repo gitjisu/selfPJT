@@ -83,7 +83,7 @@
 |선택 18 | 하 | [효율적인 알고리즘 설계와 순서도(Flowchart), 의사코드(pseudo-code) 작성](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%A4%EA%B3%84%EC%99%80-%EC%88%9C%EC%84%9C%EB%8F%84-%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1) |
 |선택 19 | 하 | [Google Colab기반의 Face Recognition 입문 PJT](%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D/Google-Colab%EA%B8%B0%EB%B0%98%EC%9D%98-Face-Recognition-%EC%9E%85%EB%AC%B8PJT) |
 |선택 20 | 하 | [SSAFY 스무고개 with REST](%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SSAFY-%EC%8A%A4%EB%AC%B4%EA%B3%A0%EA%B0%9C-with-REST) |
-|선택 21 | 하 | [Vue의 데이터 전송 방법](%EA%B0%9C%EB%B0%9C%EA%B3%B5%ED%86%B5/Vue%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-%EB%B0%A9%EB%B2%95) |
+|선택 21 | 하 | [Vue의 데이터 전송 방법](%EA%B0%9C%EB%B0%9C%EA%B3%B5%ED%86%B5/Vue%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-%EB%B0%A9%EB%B2%95) 완료 |
 |선택 22 | 하 | [DB설계, ERD 작성 실습](DB/DB%EC%84%A4%EA%B3%84-ERD-%EC%9E%91%EC%84%B1-%EC%8B%A4%EC%8A%B5) |
-|선택 23 | 하 | [Mysql 프로시저 만들고 실행](DB/mysql-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80-%EC%9E%91%EC%84%B1-%EC%8B%A4%EC%8A%B5) |
+|선택 23 | 하 | [Mysql 프로시저 만들고 실행 ](DB/mysql-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80-%EC%9E%91%EC%84%B1-%EC%8B%A4%EC%8A%B5) 완료 |
 |선택 24 | 하 | [PostgreSQL 사용](DB/PostgreSQL-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0) |
