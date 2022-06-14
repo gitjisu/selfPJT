@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>B</h1>
-    <span>결과: {{ data1 }}</span>
+    <span>emit/props 결과: {{ data1 }}</span>
   </div>
 </template>
 

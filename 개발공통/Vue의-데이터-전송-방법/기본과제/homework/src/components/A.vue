@@ -4,7 +4,6 @@
     <button @click="makeO">O</button>
     <button @click="makeX">X</button>
     <br>
-    {{ data1 }}를 선택하셨습니다!
     <hr>
   </div>
 </template>
