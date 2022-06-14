@@ -73,12 +73,12 @@
 |선택 8 | 중 | [자바스크립트에서 Firebase 활용하기](Infra/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-Firebase-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0) |
 |선택 9 | 중 | [Google Colab기반의 Generative Adversarial Network 응용PJT](%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/Google-Colab%EA%B8%B0%EB%B0%98%EC%9D%98-Generative-Adversarial-Network-%EC%9D%91%EC%9A%A9PJT) |
 |선택 10 | 중 | [Google Flutter 기반의 크로스플랫폼 앱개발 입문](%EC%95%B1/Create-Flutter-App) |
-|선택 11 | 중 | [관계형 데이터베이스 이해](DB/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B4%ED%95%B4) |
+|선택 11 | 중 | [관계형 데이터베이스 이해](DB/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B4%ED%95%B4) 완료 |
 |선택 12 | 중 | [멀티스레드 채팅 서버 구현](CS/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B2%84-%EA%B5%AC%ED%98%84) |
 |선택 13 | 하 | [사용자 스토리(User Story) 작성](PMS/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9E%91%EC%84%B1) |
 |선택 14 | 하 | [JIRA의 활용](PMS/JIRA%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-SSAFY%EC%97%90%EC%84%9C%EC%9D%98-%ED%99%9C%EC%9A%A9) |
 |선택 15 | 하 | [명세서의 요구사항 분석하여 시스템 설계](aos_map) |
-|선택 16 | 하 | [소프트웨어 유지보수](SSAFY%EA%B8%B0%EB%B3%B8/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98) |
+|선택 16 | 하 | [소프트웨어 유지보수](SSAFY%EA%B8%B0%EB%B3%B8/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98) 완료 |
 |선택 17 | 하 | [AOS 구글맵 띄우기 and Marker 띄우기](aos_map) |
 |선택 18 | 하 | [효율적인 알고리즘 설계와 순서도(Flowchart), 의사코드(pseudo-code) 작성](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%A4%EA%B3%84%EC%99%80-%EC%88%9C%EC%84%9C%EB%8F%84-%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1) |
 |선택 19 | 하 | [Google Colab기반의 Face Recognition 입문 PJT](%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D/Google-Colab%EA%B8%B0%EB%B0%98%EC%9D%98-Face-Recognition-%EC%9E%85%EB%AC%B8PJT) |
