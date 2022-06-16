@@ -1,0 +1,8 @@
+#CRONTAB FILE 
+# Classic crontab format:
+# Minutes Hours Days Months WeekDays Command
+
+#*/15 8-16 * * 1-5 checkmail.exe
+
+* * * * * python C:\Users\정석호\Desktop\오늘 해야 할 과제\계절학기 5일차(필수)\test.py
+
