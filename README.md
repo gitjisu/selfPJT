@@ -16,7 +16,7 @@
 ### [2일차](2022-6-14.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수 2`| :white_large_square: || [설계](설계) | [Database 설계 및 SQL 작성](설계/DB-Design) | |
+|`필수 2`| :white_check_mark: || [설계](설계) | [Database 설계 및 SQL 작성](설계/DB-Design) | |
 |`필수 3`| :white_large_square: || [텍스트처리](텍스트처리) | [Mysql/MariaDB data processing](텍스트처리/Mysql-MariaDB-data-processing) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
@@ -28,7 +28,7 @@
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수 4`| :white_large_square: || [웹](웹) | [Vue를 이용하여 채팅 구현하기](웹/Vue를-이용하여-채팅구현) | |
-|`필수 5`| :white_large_square: || [웹](웹) | [비동기 프로그래밍 이해](웹/비동기-프로그래밍) | |
+|`필수 5`| :white_check_mark: || [웹](웹) | [비동기 프로그래밍 이해](웹/비동기-프로그래밍) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
@@ -39,7 +39,7 @@
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수 6`| :white_large_square: || [웹](웹) | [node.js와 socket.io를 활용한 채팅 server/client 구현](웹/Nodejs-Chat-Server-Client) | |
-|`필수 7`| :white_large_square: || [개발공통](개발공통) | [스케줄러 활용](개발공통/스케줄러-활용) | |
+|`필수 7`| :white_check_mark: || [개발공통](개발공통) | [스케줄러 활용](개발공통/스케줄러-활용) | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
 |선택| :white_large_square: || [분야 추가] | [프로젝트 추가] | |
